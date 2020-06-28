@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RobotWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RobotWorld\ here.\r\n\ \r\n\ @author\ (Teddy\ Lioner\ 535180014)\ \r\n\ @version\ (3/14/2019)\r\n\ HOW\ TO\ PLAY\r\n\ Game\ ini\ memberikan\ kontrol\ movement\ Robot\ kepada\ player\r\n\ Player\ harus\ mengontrol\ Robot\ agar\ sampai\ ke\ Home\r\n\ Jika\ Player\ berhasil\ membawa\ Robot\ ke\ Home,\r\n\ maka\ game\ akan\ mengalami\ kenaikan\ level\ kesulitan.\r\n\ \r\n\ Robot\ memiliki\ 3\ nyawa.\r\n\ \r\n\ Robot\ tidak\ boleh\ menyentuh\ Wall\ atau\ Block\ yang\ berputar\r\n\ jika\ Robot\ menyentuh\ Wall\ atau\ Blockmaka\ Robot\ akan\ kehilangan\ satu\ nyawa.\r\n\ Jika\ Robot\ kehilangan\ semua\ nyawa,\ maka\ Game\ Over.\r\n\ \r\n\ Ada\ batas\ waktu\ bagi\ Robot\ untuk\ mencapai\ Home,\r\n\ jika\ batas\ waktu\ habis\ maka\ Game\ Over.\r\n\ \r\n\ Player\ memenangkan\ permainan\ bila\ berhasil\ melewati\ level\ 2.\r\n
+comment1.params=
+comment1.target=RobotWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RobotWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ setUpLevel()
+comment4.params=
+comment4.target=void\ increaseLevel()
+numComments=5
